@@ -1,0 +1,13 @@
+# Ignore Python files
+__pycache__/
+*.pyc
+
+# Ignore node modules
+frontend/node_modules/
+backend/venv/
+
+# Ignore environment files
+*.env
+
+# Ignore Docker build artifacts
+*.log
